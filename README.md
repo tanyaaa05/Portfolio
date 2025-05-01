@@ -26,7 +26,7 @@ This is my personal portfolio showcasing:
 | 🧮 SQL & PHP | Server-side logic and data handling |
 
 ## 🔗 Live Preview
-👉 Coming Soon... (You can deploy using GitHub Pages or Vercel! Need help? Ping me!)
+👉 https://portfolio-tanya-singh-projects.vercel.app/
 
 ## 📸 Sneak Peek
 
